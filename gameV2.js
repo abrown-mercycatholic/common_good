@@ -3,7 +3,7 @@ let TIME_LIMIT = 60;
 
 // define quotes to be used
 let quotes_array = [
-  "the sum total of social conditions which allow people either as groups or individuals to reach their fulfillment more fully and more easily"
+  "the sum total of social conditions which allow people, either as groups or as individuals, to reach their fulfillment more fully and more easily"
 ];
 
 // selecting required elements
